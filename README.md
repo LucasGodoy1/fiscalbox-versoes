@@ -5,18 +5,18 @@
 <h1 align="center">NotaBox</h1>
 
 <p align="center">
-  <b>Todas as notas dos seus clientes, direto da SEFAZ, em poucos cliques.</b><br>
+  <b>Todas as NF-e, CT-e e NFS-e dos seus clientes, direto da SEFAZ, em poucos cliques.</b><br>
   NF-e, CT-e e NFS-e com XML e PDF · CNPJs ilimitados · Teste grátis por 3 dias
 </p>
 
 <p align="center">
-  <a href="https://github.com/LucasGodoy1/fiscalbox-versoes/releases/download/v0.2.25/NotaBox-0.2.25.msi">
+  <a href="https://notabox-licencas.notabox-licencas.workers.dev/baixar?origem=github">
     <img src="img/botao-download.svg" width="420" alt="DOWNLOAD para Windows">
   </a>
 </p>
 
 <p align="center">
-  Versão 0.2.25 · Windows 10 e 11 · Sem cartão para testar · <a href="https://notabox.pages.dev">Site oficial: notabox.pages.dev</a>
+  Versão 0.2.26 · Windows 10 e 11 · Sem cartão para testar · <a href="https://notabox.pages.dev">Site oficial: notabox.pages.dev</a>
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
 Pagamento por Pix ou cartão pelo Mercado Pago, direto no programa. Promoções em vigor aparecem no [site oficial](https://notabox.pages.dev) e na tela de assinatura do programa.
 
 <p align="center">
-  <a href="https://github.com/LucasGodoy1/fiscalbox-versoes/releases/download/v0.2.25/NotaBox-0.2.25.msi">
+  <a href="https://notabox-licencas.notabox-licencas.workers.dev/baixar?origem=github">
     <img src="img/botao-download.svg" width="360" alt="DOWNLOAD para Windows">
   </a>
 </p>
