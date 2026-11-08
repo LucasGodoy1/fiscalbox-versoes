@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Versão 0.2.26 · Windows 10 e 11 · Sem cartão para testar · <a href="https://notabox.pages.dev">Site oficial: notabox.pages.dev</a>
+  Versão 0.2.27 · Windows 10 e 11 · Sem cartão para testar · <a href="https://notabox.pages.dev">Site oficial: notabox.pages.dev</a>
 </p>
 
 <p align="center">
