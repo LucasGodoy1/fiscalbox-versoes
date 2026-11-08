@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LucasGodoy1/fiscalbox-versoes/releases/download/v0.2.24/NotaBox-0.2.24.msi">
+  <a href="https://github.com/LucasGodoy1/fiscalbox-versoes/releases/download/v0.2.25/NotaBox-0.2.25.msi">
     <img src="img/botao-download.svg" width="420" alt="DOWNLOAD para Windows">
   </a>
 </p>
 
 <p align="center">
-  Versão 0.2.24 · Windows 10 e 11 · Sem cartão para testar · <a href="https://notabox.pages.dev">Site oficial: notabox.pages.dev</a>
+  Versão 0.2.25 · Windows 10 e 11 · Sem cartão para testar · <a href="https://notabox.pages.dev">Site oficial: notabox.pages.dev</a>
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
 Pagamento por Pix ou cartão pelo Mercado Pago, direto no programa. Promoções em vigor aparecem no [site oficial](https://notabox.pages.dev) e na tela de assinatura do programa.
 
 <p align="center">
-  <a href="https://github.com/LucasGodoy1/fiscalbox-versoes/releases/download/v0.2.24/NotaBox-0.2.24.msi">
+  <a href="https://github.com/LucasGodoy1/fiscalbox-versoes/releases/download/v0.2.25/NotaBox-0.2.25.msi">
     <img src="img/botao-download.svg" width="360" alt="DOWNLOAD para Windows">
   </a>
 </p>
